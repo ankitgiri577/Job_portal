@@ -1,6 +1,6 @@
-# Jobhunt
+# TalentQuest
 
-**Jobhunt** is a simple full-stack web application designed to simplify the job search and application tracking process. The application is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), providing users with the ability to search for jobs, manage their job application journey seamlessly.
+**TalentQuest** is a simple full-stack web application designed to simplify the job search and application tracking process. The application is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), providing users with the ability to search for jobs, manage their job application journey seamlessly.
 
 ## Table of Contents
 
